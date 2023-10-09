@@ -22,5 +22,5 @@ Olá! Sou Alisson Oliveira, atualmente estou finalizando uma graduação em Ciê
   <a href="mailto:alisson.ti.ifce@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
-  <a href="(www.linkedin.com/in/alisson-oliveira-21332b13a)" alt="LinkedIn">
+  <a href="[](www.linkedin.com/in/alisson-oliveira-21332b13a)" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
