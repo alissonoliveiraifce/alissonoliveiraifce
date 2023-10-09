@@ -3,7 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá! Sou Alisson Oliveira, atualmente estou finalizando uma graduação em Ciência da Computação, e além da faculdade, faço cursos online para me aprofundar e me manter constantemente atualizado sobre novas tecnologias e ferramentas <strong>Back End</strong>.<br>
+   Olá! Sou Alisson Oliveira, atualmente estou finalizando uma graduação em Ciência da Computação, e além da faculdade, faço cursos online para me aprofundar e me manter constantemente atualizado sobre novas tecnologias e ferramentas <strong>Back End</strong>.<br>
+
+   Porquanto, vou adicionando projetos de estudo por aqui.
 </p>
 
 <p align="left">
